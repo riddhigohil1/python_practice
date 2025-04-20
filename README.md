@@ -1,1 +1,1 @@
-# python_practice
+Create a sentiment analysis application using Watson NLP library
